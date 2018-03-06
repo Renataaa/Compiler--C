@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1515857454 source:d:\code\codeblocks\compiler\main.cpp
+	<vector>
+	<string.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<stack>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"lexical.h"
+	"symboltable.h"
+	<map>
+	"idtable.h"
+	"four.h"
+	"mips.h"
+
+1515856218 d:\code\codeblocks\compiler\lexical.h
+	<iostream>
+	<sstream>
+	<algorithm>
+	<vector>
+	<stack>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"lexical.h"
+	<fstream>
+
+1514100052 d:\code\codeblocks\compiler\symboltable.h
+	<map>
+
+1515685422 d:\code\codeblocks\compiler\idtable.h
+
+1515918113 d:\code\codeblocks\compiler\four.h
+	<vector>
+	<string.h>
+	<map>
+
+1515918151 d:\code\codeblocks\compiler\mips.h
+	"four.h"
+	<map>
+	"symboltable.h"
+	"idtable.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
